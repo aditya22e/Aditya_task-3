@@ -65,7 +65,7 @@ function Hero() {
           </div>
         </div>
       </div>
-      <a href="" className="cta-button">Register Now</a>
+      <a href="https://aditya-task-4.vercel.app" className="cta-button">Register Now</a>
     </section>
   );
 }
