@@ -38,7 +38,7 @@ footer {
     justify-content: center;
     width: 40px;
     height: 40px;
-    background: #f97316;
+    background: #ff00ff;
     border-radius: 50%;
     color: white;
     font-size: 1.2rem;
@@ -46,7 +46,7 @@ footer {
   }
   
   .social-icon:hover {
-    background: #ea580c;
+    background: #00f7ff;
     transform: scale(1.15);
   }
   
