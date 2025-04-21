@@ -1,4 +1,3 @@
-// src/components/FAQ.js
 import React from 'react';
 import './FAQ.css';
 
