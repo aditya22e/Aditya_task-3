@@ -1,4 +1,3 @@
-// src/components/Hero.js
 import React, { useState, useEffect } from 'react';
 import './Hero.css';
 
