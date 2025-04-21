@@ -1,4 +1,3 @@
-// src/components/Details.js
 import React from 'react';
 import './Details.css';
 
