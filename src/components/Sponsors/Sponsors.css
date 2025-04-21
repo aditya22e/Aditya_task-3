@@ -1,0 +1,28 @@
+/* src/components/Sponsors.css */
+.sponsors {
+    padding: 50px 20px;
+    text-align: center;
+    background: #f4f4f9;
+  }
+  
+  .sponsors h2 {
+    font-size: 2rem;
+    margin-bottom: 30px;
+  }
+  
+  .sponsor-logos {
+    display: flex;
+    justify-content: center;
+    gap: 40px;
+    flex-wrap: wrap;
+  }
+  
+  .sponsor-logos img {
+    max-width: 150px;
+    filter: grayscale(100%);
+    transition: ease-in 0.3s;
+  }
+  
+  .sponsor-logos img:hover {
+    filter: grayscale(0%);
+  }
