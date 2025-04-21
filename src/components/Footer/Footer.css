@@ -16,13 +16,13 @@ footer {
   }
   
   footer a {
-    color: #f97316;
+    color: #ff00ff;
     text-decoration: none;
     transition: color 0.3s;
   }
   
   footer a:hover {
-    color: #ea580c;
+    color: #00f7ff;
   }
   
   .social-icons {
