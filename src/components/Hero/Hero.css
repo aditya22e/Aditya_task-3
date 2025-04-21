@@ -18,7 +18,7 @@
 }
 
 .cta-button {
-  background: #f97316;
+  background: #ff00ff;
   color: white;
   padding: 15px 30px;
   border: none;
@@ -31,10 +31,10 @@
 }
 
 .cta-button:hover {
-  background: #ea580c;
+  background: #00f7ff;
 }
 
-/* Countdown Timer Styles */
+
 .countdown {
   margin: 20px 0;
 }
