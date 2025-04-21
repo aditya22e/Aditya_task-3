@@ -1,4 +1,3 @@
-// src/components/Sponsors.js
 import React from 'react';
 import './Sponsors.css';
 
